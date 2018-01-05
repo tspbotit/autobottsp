@@ -6,9 +6,9 @@ use \LINE\LINEBot;
 use \LINE\LINEBot\MessageBuilder\TextMessageBuilder;
 
 
-$channel_token='';
+$channel_token='pLZgRrxjpOHcqlXU2Gba91zMOHqva8ex6XhK2Sn+HtmN6qHbLiBwlWvhfJ5L26mL0PUGtVzt5k9bvM1MPg3S6OMUPGvzAYoO+jrbFLkMm4vLodRXVtRgfzmnkNRdQOQ14b9JRdcnuLClVDEBzM+FYAdB04t89/1O/w1cDnyilFU=';
 
-$channel_secret='';
+$channel_secret='ff4e68d2221e77cfb5ae487c27b094fd';
 
 $content = file_get_contents('php://input');
 
