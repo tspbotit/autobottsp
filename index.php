@@ -22,7 +22,7 @@ if(!is_null($events['events'])){
 					
 					$replyToken = $event['replyToken'];
 
-					$respMessage = 'Hello ,you '.$event['message']['text'];
+					$respMessage = 'สวัดดีครับคุณ '.$event['message']['text'];
 
 
 					$httpClient = new CurlHTTPClient($channel_token);
